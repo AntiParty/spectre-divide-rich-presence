@@ -25,8 +25,10 @@ You can download the latest release of the Spectre Divide Rich Presence Controll
 4. Your status will be updated on Discord instantly.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/29e17b88-3b1f-40f2-8a1a-b0dea71cc340)
+![image](https://github.com/user-attachments/assets/fce9e61b-0ba0-402e-8ef8-cf3236977c49)
 
-(Include any relevant screenshots here to illustrate the app's functionality.)
+
 
 ## Contributing
 
