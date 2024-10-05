@@ -11,9 +11,9 @@ A lightweight Electron application for managing your Discord Rich Presence for t
 
 ## Download
 
-You can download the latest release of the Spectre Divide Rich Presence Controller as a portable `.exe` file from the [Releases](https://github.com/antiparty/spectre-rich-presence/releases) page.
+You can download the latest release of the Spectre Divide Rich Presence Controller as a portable `.exe` file from the [Releases](https://github.com/antiparty/spectre-divide-rich-presence/releases) page.
 
-1. Go to the [Releases page](https://github.com/antiparty/spectre-rich-presence/releases).
+1. Go to the [Releases page](https://github.com/antiparty/spectre-divide-rich-presence/releases).
 2. Download the latest version of the application.
 3. Extract the zip file (if necessary) and run the executable.
 
